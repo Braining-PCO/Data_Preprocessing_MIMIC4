@@ -88,7 +88,7 @@ stroke-mortality-prediction/
 
 ## Stage 1 — Exploratory Data Analysis
 
-**Notebook:** [`eda_noteook/eda.ipynb`](eda_noteook/eda.ipynb)
+**Notebook:** [`eda_noteook/eda.ipynb`](eda_notebook/eda.ipynb)
 
 The EDA notebook investigates the MIMIC-IV stroke cohort to understand the data distributions, class imbalances, and clinical patterns before any modelling takes place. Key analyses include:
 
