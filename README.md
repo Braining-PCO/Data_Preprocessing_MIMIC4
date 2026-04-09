@@ -198,12 +198,12 @@ The table below shows AUC-ROC scores across prediction horizons:
 
 | Horizon | ML (XGBoost) | DL (Multi-task NN) |
 |---|---|---|
-| Day 1 | 96.68% | 96.70% |
-| Day 15 | 72.00% | 85.50% |
-| Day 30 | 71.17% | 83.80% |
-| Day 45 | 64.55% | 80.50% |
-| Day 60 | 68.81% | 79.50% |
-| Day 90 | 68.81% | 78.20% |
+| Day 1 | 0.910 | 0.886 |
+| Day 15 | 0.758 | 0.810 |
+| Day 30 | 0.764 | 0.784 |
+| Day 45 | 0.733 | 0.766 |
+| Day 60 | 0.731 | 0.752 |
+| Day 90 | 0.703 | 0.736 |
 
 The deep learning model generalises better at longer horizons, while both models achieve near-equivalent performance at the 1-day horizon.
 
